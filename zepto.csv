@@ -1,0 +1,247 @@
+Category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
+"Fruits & Vegetables",Onion,25,16,3,21,1000,FALSE,1
+"Fruits & Vegetables","Tomato Hybrid",42,16,3,35,1000,FALSE,1
+"Fruits & Vegetables","Tender Coconut",51,15,3,43,58,FALSE,1
+"Fruits & Vegetables","Coriander Leaves",20,15,3,17,100,FALSE,100
+"Fruits & Vegetables","Ladies Finger ",14,14,3,12,250,FALSE,250
+"Fruits & Vegetables",Potato,35,17,3,29,1000,FALSE,1
+"Fruits & Vegetables",Lemon,75,16,3,63,200,FALSE,200
+"Fruits & Vegetables","Watermelon ",58,15,3,49,58,FALSE,1
+"Fruits & Vegetables","Capsicum Green ",23,17,3,19,250,FALSE,250
+"Fruits & Vegetables","Chilli Green ",19,15,3,16,100,FALSE,100
+"Fruits & Vegetables","Banana Robusta",29,17,3,24,348,FALSE,6
+"Fruits & Vegetables","Garlic Indian ",11,18,3,9,100,FALSE,100
+"Fruits & Vegetables",Cauliflower,26,15,3,22,58,FALSE,1
+"Fruits & Vegetables",Ginger,14,14,3,12,200,FALSE,200
+"Fruits & Vegetables",Spinach,19,15,3,16,250,FALSE,250
+"Fruits & Vegetables",Muskmelon,42,16,3,35,58,FALSE,1
+"Fruits & Vegetables","Cabbage ",15,13,3,13,58,FALSE,1
+"Fruits & Vegetables",Methi,30,16,3,25,250,FALSE,250
+"Fruits & Vegetables",Broccoli,36,16,3,30,500,FALSE,500
+"Fruits & Vegetables",Sapota,30,16,3,25,348,FALSE,6
+"Fruits & Vegetables",Onion,68,16,3,57,3000,FALSE,3
+"Fruits & Vegetables",Potato,100,16,3,84,3000,FALSE,3
+"Fruits & Vegetables","Orange Nagpur",82,15,3,69,232,FALSE,4
+"Fruits & Vegetables","Mint Leaves ",11,18,3,9,100,FALSE,100
+"Fruits & Vegetables","Beans French",33,15,3,28,250,FALSE,250
+"Fruits & Vegetables","Bottle Gourd ",26,15,3,22,58,FALSE,1
+"Fruits & Vegetables","Banana Elaichi ",58,15,3,49,348,FALSE,6
+"Fruits & Vegetables","Coconut Big",36,16,3,30,58,FALSE,1
+"Fruits & Vegetables","Curry Leaves",13,15,3,11,50,FALSE,50
+"Fruits & Vegetables","Brinjal Bharta",19,15,3,16,58,FALSE,1
+"Fruits & Vegetables","Lettuce Iceberg",25,16,3,21,250,FALSE,250
+"Fruits & Vegetables",Papaya,54,16,3,45,58,FALSE,1
+"Fruits & Vegetables","Apple Shimla",142,16,3,119,232,FALSE,4
+"Fruits & Vegetables","Bitter Gourd",18,16,3,15,250,FALSE,250
+"Fruits & Vegetables","Brinjal Small",18,16,3,15,250,FALSE,250
+"Fruits & Vegetables","Sweet Corn",36,16,3,30,116,FALSE,2
+"Fruits & Vegetables","Spring Onion ",18,16,3,15,250,FALSE,250
+"Fruits & Vegetables","Bell Peppers Red & Yellow ",118,16,3,99,116,FALSE,2
+"Fruits & Vegetables","Pomegranate ",106,16,3,89,116,FALSE,2
+"Fruits & Vegetables","Sweet Lime",30,16,3,25,116,FALSE,2
+"Fruits & Vegetables","Baby Potato",19,15,3,16,500,FALSE,500
+"Fruits & Vegetables",Coccinia,32,15,3,27,250,FALSE,250
+"Fruits & Vegetables",Guava,54,16,3,45,232,FALSE,4
+"Fruits & Vegetables","Apple Washington",177,15,3,149,232,FALSE,4
+"Fruits & Vegetables",Amla,32,15,3,27,250,FALSE,250
+"Fruits & Vegetables","Beans Cluster",30,16,3,25,250,FALSE,250
+"Fruits & Vegetables","Apple Royal Gala",189,15,3,159,232,FALSE,4
+"Fruits & Vegetables","Chilli Bhaji",30,16,3,25,250,FALSE,250
+"Fruits & Vegetables","Lettuce Green",23,17,3,19,100,FALSE,100
+"Fruits & Vegetables","Baby Corn Peeled",35,17,3,29,250,FALSE,250
+"Fruits & Vegetables","Mixed Sprouts",35,17,3,29,200,FALSE,200
+"Fruits & Vegetables","Zucchini Green",35,17,3,29,250,FALSE,250
+"Fruits & Vegetables","Beans Broad",42,16,3,35,250,FALSE,250
+"Fruits & Vegetables","Raw Banana",20,15,6,17,500,FALSE,500
+"Fruits & Vegetables","Colocasia ",29,17,6,24,500,FALSE,500
+"Fruits & Vegetables","Tomato Cherry ",35,17,3,29,200,FALSE,200
+"Fruits & Vegetables","Sweet Potato ",38,15,3,32,500,FALSE,500
+"Fruits & Vegetables","Pineapple Slice",89,15,3,75,200,FALSE,200
+"Fruits & Vegetables",Orange,54,16,3,45,116,FALSE,2
+"Fruits & Vegetables","Dragon Fruit Imported",70,15,3,59,58,FALSE,1
+"Fruits & Vegetables","Zucchini Yellow",42,16,3,35,250,FALSE,500
+"Fruits & Vegetables","Apple Kinnaur",142,16,6,119,232,FALSE,4
+"Fruits & Vegetables",Pineapple,94,15,3,79,58,FALSE,1
+"Fruits & Vegetables",Basil,20,15,3,17,100,FALSE,100
+"Fruits & Vegetables",Parsley,17,17,3,14,100,FALSE,100
+"Fruits & Vegetables","Ridge Gourd",30,16,3,25,500,FALSE,500
+"Fruits & Vegetables","Papaya Cut",46,15,3,39,200,FALSE,200
+"Fruits & Vegetables","Pomegranate Peeled",58,15,2,49,100,FALSE,100
+"Fruits & Vegetables","Pear Green Imported",82,15,3,69,116,FALSE,2
+"Fruits & Vegetables","Guava Thai",70,15,3,59,116,FALSE,2
+"Fruits & Vegetables","Lettuce Red",20,15,3,17,100,FALSE,100
+"Fruits & Vegetables","Mango Raw",60,16,3,50,500,FALSE,500
+"Fruits & Vegetables","Biryani /Pulav Mix",58,15,3,49,250,FALSE,250
+"Fruits & Vegetables","Banana Nendran",54,16,6,45,500,FALSE,500
+"Fruits & Vegetables","Pumpkin Cut",30,16,3,25,200,FALSE,200
+"Fruits & Vegetables","Banana Red",54,16,6,45,500,FALSE,500
+"Fruits & Vegetables","Radish White",23,17,6,19,500,FALSE,500
+"Fruits & Vegetables","Avocado Indian Premium",177,15,3,149,58,FALSE,1
+"Fruits & Vegetables","Banana Leaf",12,16,2,10,58,FALSE,1
+"Fruits & Vegetables","Sponge Gourd",25,16,2,21,300,FALSE,300
+"Fruits & Vegetables","Zama Organics Carrot",20,15,3,17,250,FALSE,250
+"Fruits & Vegetables","Safal Frozen - Mixed Vegetables",110,4,2,105,1000,FALSE,1
+"Fruits & Vegetables","Zama Organics Sweet Potato",37,16,3,31,250,FALSE,250
+"Fruits & Vegetables",Beetroot,16,18,3,13,500,FALSE,500
+"Fruits & Vegetables",Capsicum,26,19,3,21,500,FALSE,500
+"Fruits & Vegetables",Carrot,19,21,3,15,500,FALSE,500
+"Fruits & Vegetables",Garlic,17,23,3,13,200,FALSE,200
+"Fruits & Vegetables",Carrot,13,15,0,11,250,TRUE,200
+"Fruits & Vegetables",Beetroot,11,18,0,9,250,TRUE,250
+"Fruits & Vegetables","Moong Sprouts",35,17,0,29,200,TRUE,200
+"Fruits & Vegetables","Safal Frozen Mixed Vegetables",60,5,0,57,500,TRUE,500
+"Fruits & Vegetables","Safal Frozen Corn",41,4,0,39,200,TRUE,200
+"Fruits & Vegetables","Safal Frozen - Sweet Corn",160,5,0,152,1000,TRUE,1
+"Cooking Essentials","Maggi 2 Minute Masala Noodles",12,0,6,12,70,FALSE,70
+"Cooking Essentials","iD Idli & Dosa Batter ",80,15,6,68,1000,FALSE,1
+"Cooking Essentials","Tata Salt",24,0,6,24,1000,FALSE,1
+"Cooking Essentials","Arden Eggs White",97,0,4,97,696,FALSE,12
+"Cooking Essentials","Arden Eggs White",65,15,4,55,348,FALSE,6
+"Cooking Essentials","Fortune Sunlite Refined Sunflower (Pouch)",230,4,6,219,1000,FALSE,1
+"Cooking Essentials","Aashirvaad Superior MP Atta",250,2,6,245,5000,FALSE,5
+"Cooking Essentials","Amul Pure Ghee (Pouch)",255,2,6,249,500,FALSE,500
+"Cooking Essentials","Arden Eggs Brown",85,7,4,79,348,FALSE,6
+"Cooking Essentials","Tata Salt Lite",40,10,6,36,1000,FALSE,1
+"Cooking Essentials","Saffola Gold Oil (Pouch)",215,0,6,215,1000,FALSE,1
+"Cooking Essentials","Fortune Sunlite Refined Sunflower (Jar)",925,0,6,925,5000,FALSE,5
+"Cooking Essentials","Fortune Rice Bran (Pouch)",225,11,6,199,1000,FALSE,1
+"Cooking Essentials","Saffola Active Oil",210,0,6,210,1000,FALSE,1
+"Cooking Essentials","Amul Pure Ghee (Pouch)",505,1,2,499,1000,FALSE,1
+"Cooking Essentials","Aashirvaad Atta",460,13,6,399,10000,FALSE,10
+"Cooking Essentials","Popular Essentials Toor Dal (Un-Polished)",160,6,4,149,1000,FALSE,1
+"Cooking Essentials","Amul Ghee (Tin)",520,2,6,509,1000,FALSE,1
+"Cooking Essentials","Amul Fresh Cream",197,3,3,191,1000,FALSE,1
+"Cooking Essentials","Popular Essentials Pure Jaggery",50,2,6,49,450,FALSE,450
+"Cooking Essentials","Aashirvaad Multigrain Atta",64,3,2,62,1000,FALSE,1
+"Cooking Essentials","Fortune Soyabean Oil",1005,0,6,999,5000,FALSE,5
+"Cooking Essentials","Popular Essentials Sunflower Seeds",25,0,6,25,50,FALSE,50
+"Cooking Essentials","Tata Sampann kabuli chana",185,1,4,183,1000,FALSE,500
+"Cooking Essentials","Dhara Groundnut Oil (Pouch)",230,11,6,203,1000,FALSE,1
+"Cooking Essentials","Dhara Health Refined Sun Flower Oil Jar",1200,18,6,984,5000,FALSE,5
+"Cooking Essentials","24 Mantra Organic Jaggery Powder",80,15,6,68,500,FALSE,500
+"Cooking Essentials","Tata Sampann High Protien Kabuli Chana",94,0,1,94,500,FALSE,500
+"Cooking Essentials","Dhara Kachi Ghani Mustard Oil Jar",1250,8,6,1143,5000,FALSE,5
+"Cooking Essentials","D'lecta Dairy Cream",54,5,6,51,200,FALSE,200
+"Fruits & Vegetables",Onion,25,16,3,21,1000,FALSE,1
+"Fruits & Vegetables","Tomato Hybrid",42,16,3,35,1000,FALSE,1
+"Fruits & Vegetables","Tender Coconut",51,15,3,43,58,FALSE,1
+"Fruits & Vegetables","Coriander Leaves",20,15,3,17,100,FALSE,100
+"Fruits & Vegetables","Ladies Finger ",14,14,3,12,250,FALSE,250
+"Fruits & Vegetables",Potato,35,17,3,29,1000,FALSE,1
+"Fruits & Vegetables",Lemon,75,16,3,63,200,FALSE,200
+"Fruits & Vegetables","Watermelon ",58,15,3,49,58,FALSE,1
+"Fruits & Vegetables","Capsicum Green ",23,17,3,19,250,FALSE,250
+"Fruits & Vegetables","Chilli Green ",19,15,3,16,100,FALSE,100
+"Fruits & Vegetables","Banana Robusta",29,17,3,24,348,FALSE,6
+"Fruits & Vegetables","Garlic Indian ",11,18,3,9,100,FALSE,100
+"Fruits & Vegetables",Cauliflower,26,15,3,22,58,FALSE,1
+"Fruits & Vegetables",Ginger,14,14,3,12,200,FALSE,200
+"Fruits & Vegetables",Spinach,19,15,3,16,250,FALSE,250
+"Fruits & Vegetables",Muskmelon,42,16,3,35,58,FALSE,1
+"Fruits & Vegetables","Cabbage ",15,13,3,13,58,FALSE,1
+"Fruits & Vegetables",Methi,30,16,3,25,250,FALSE,250
+"Fruits & Vegetables",Broccoli,36,16,3,30,500,FALSE,500
+"Fruits & Vegetables",Sapota,30,16,3,25,348,FALSE,6
+"Fruits & Vegetables",Onion,68,16,3,57,3000,FALSE,3
+"Fruits & Vegetables",Potato,100,16,3,84,3000,FALSE,3
+"Fruits & Vegetables","Orange Nagpur",82,15,3,69,232,FALSE,4
+"Fruits & Vegetables","Mint Leaves ",11,18,3,9,100,FALSE,100
+"Fruits & Vegetables","Beans French",33,15,3,28,250,FALSE,250
+"Fruits & Vegetables","Bottle Gourd ",26,15,3,22,58,FALSE,1
+"Fruits & Vegetables","Banana Elaichi ",58,15,3,49,348,FALSE,6
+"Fruits & Vegetables","Coconut Big",36,16,3,30,58,FALSE,1
+"Fruits & Vegetables","Curry Leaves",13,15,3,11,50,FALSE,50
+"Fruits & Vegetables","Brinjal Bharta",19,15,3,16,58,FALSE,1
+"Fruits & Vegetables","Lettuce Iceberg",25,16,3,21,250,FALSE,250
+"Fruits & Vegetables",Papaya,54,16,3,45,58,FALSE,1
+"Fruits & Vegetables","Apple Shimla",142,16,3,119,232,FALSE,4
+"Fruits & Vegetables","Bitter Gourd",18,16,3,15,250,FALSE,250
+"Fruits & Vegetables","Brinjal Small",18,16,3,15,250,FALSE,250
+"Fruits & Vegetables","Sweet Corn",36,16,3,30,116,FALSE,2
+"Fruits & Vegetables","Spring Onion ",18,16,3,15,250,FALSE,250
+"Fruits & Vegetables","Bell Peppers Red & Yellow ",118,16,3,99,116,FALSE,2
+"Fruits & Vegetables","Pomegranate ",106,16,3,89,116,FALSE,2
+"Fruits & Vegetables","Sweet Lime",30,16,3,25,116,FALSE,2
+"Fruits & Vegetables","Baby Potato",19,15,3,16,500,FALSE,500
+"Fruits & Vegetables",Coccinia,32,15,3,27,250,FALSE,250
+"Fruits & Vegetables",Guava,54,16,3,45,232,FALSE,4
+"Fruits & Vegetables","Apple Washington",177,15,3,149,232,FALSE,4
+"Fruits & Vegetables",Amla,32,15,3,27,250,FALSE,250
+"Fruits & Vegetables","Beans Cluster",30,16,3,25,250,FALSE,250
+"Fruits & Vegetables","Apple Royal Gala",189,15,3,159,232,FALSE,4
+"Fruits & Vegetables","Chilli Bhaji",30,16,3,25,250,FALSE,250
+"Fruits & Vegetables","Lettuce Green",23,17,3,19,100,FALSE,100
+"Fruits & Vegetables","Baby Corn Peeled",35,17,3,29,250,FALSE,250
+"Fruits & Vegetables","Mixed Sprouts",35,17,3,29,200,FALSE,200
+"Fruits & Vegetables","Zucchini Green",35,17,3,29,250,FALSE,250
+"Fruits & Vegetables","Beans Broad",42,16,3,35,250,FALSE,250
+"Fruits & Vegetables","Raw Banana",20,15,6,17,500,FALSE,500
+"Fruits & Vegetables","Colocasia ",29,17,6,24,500,FALSE,500
+"Fruits & Vegetables","Tomato Cherry ",35,17,3,29,200,FALSE,200
+"Fruits & Vegetables","Sweet Potato ",38,15,3,32,500,FALSE,500
+"Fruits & Vegetables","Pineapple Slice",89,15,3,75,200,FALSE,200
+"Fruits & Vegetables",Orange,54,16,3,45,116,FALSE,2
+"Fruits & Vegetables","Dragon Fruit Imported",70,15,3,59,58,FALSE,1
+"Fruits & Vegetables","Zucchini Yellow",42,16,3,35,250,FALSE,500
+"Fruits & Vegetables","Apple Kinnaur",142,16,6,119,232,FALSE,4
+"Fruits & Vegetables",Pineapple,94,15,3,79,58,FALSE,1
+"Fruits & Vegetables",Basil,20,15,3,17,100,FALSE,100
+"Fruits & Vegetables",Parsley,17,17,3,14,100,FALSE,100
+"Fruits & Vegetables","Ridge Gourd",30,16,3,25,500,FALSE,500
+"Fruits & Vegetables","Papaya Cut",46,15,3,39,200,FALSE,200
+"Fruits & Vegetables","Pomegranate Peeled",58,15,2,49,100,FALSE,100
+"Fruits & Vegetables","Pear Green Imported",82,15,3,69,116,FALSE,2
+"Fruits & Vegetables","Guava Thai",70,15,3,59,116,FALSE,2
+"Fruits & Vegetables","Lettuce Red",20,15,3,17,100,FALSE,100
+"Fruits & Vegetables","Mango Raw",60,16,3,50,500,FALSE,500
+"Fruits & Vegetables","Biryani /Pulav Mix",58,15,3,49,250,FALSE,250
+"Fruits & Vegetables","Banana Nendran",54,16,6,45,500,FALSE,500
+"Fruits & Vegetables","Pumpkin Cut",30,16,3,25,200,FALSE,200
+"Fruits & Vegetables","Banana Red",54,16,6,45,500,FALSE,500
+"Fruits & Vegetables","Radish White",23,17,6,19,500,FALSE,500
+"Fruits & Vegetables","Avocado Indian Premium",177,15,3,149,58,FALSE,1
+"Fruits & Vegetables","Banana Leaf",12,16,2,10,58,FALSE,1
+"Fruits & Vegetables","Sponge Gourd",25,16,2,21,300,FALSE,300
+"Fruits & Vegetables","Zama Organics Carrot",20,15,3,17,250,FALSE,250
+"Fruits & Vegetables","Safal Frozen - Mixed Vegetables",110,4,2,105,1000,FALSE,1
+"Fruits & Vegetables","Zama Organics Sweet Potato",37,16,3,31,250,FALSE,250
+"Fruits & Vegetables",Beetroot,16,18,3,13,500,FALSE,500
+"Fruits & Vegetables",Capsicum,26,19,3,21,500,FALSE,500
+"Fruits & Vegetables",Carrot,19,21,3,15,500,FALSE,500
+"Fruits & Vegetables",Garlic,17,23,3,13,200,FALSE,200
+"Fruits & Vegetables",Carrot,13,15,0,11,250,TRUE,200
+"Fruits & Vegetables",Beetroot,11,18,0,9,250,TRUE,250
+"Fruits & Vegetables","Moong Sprouts",35,17,0,29,200,TRUE,200
+"Fruits & Vegetables","Safal Frozen Mixed Vegetables",60,5,0,57,500,TRUE,500
+"Fruits & Vegetables","Safal Frozen Corn",41,4,0,39,200,TRUE,200
+"Fruits & Vegetables","Safal Frozen - Sweet Corn",160,5,0,152,1000,TRUE,1
+"Cooking Essentials","Maggi 2 Minute Masala Noodles",12,0,6,12,70,FALSE,70
+"Cooking Essentials","iD Idli & Dosa Batter ",80,15,6,68,1000,FALSE,1
+"Cooking Essentials","Tata Salt",24,0,6,24,1000,FALSE,1
+"Cooking Essentials","Arden Eggs White",97,0,4,97,696,FALSE,12
+"Cooking Essentials","Arden Eggs White",65,15,4,55,348,FALSE,6
+"Cooking Essentials","Fortune Sunlite Refined Sunflower (Pouch)",230,4,6,219,1000,FALSE,1
+"Cooking Essentials","Aashirvaad Superior MP Atta",250,2,6,245,5000,FALSE,5
+"Cooking Essentials","Amul Pure Ghee (Pouch)",255,2,6,249,500,FALSE,500
+"Cooking Essentials","Arden Eggs Brown",85,7,4,79,348,FALSE,6
+"Cooking Essentials","Tata Salt Lite",40,10,6,36,1000,FALSE,1
+"Cooking Essentials","Saffola Gold Oil (Pouch)",215,0,6,215,1000,FALSE,1
+"Cooking Essentials","Fortune Sunlite Refined Sunflower (Jar)",925,0,6,925,5000,FALSE,5
+"Cooking Essentials","Fortune Rice Bran (Pouch)",225,11,6,199,1000,FALSE,1
+"Cooking Essentials","Saffola Active Oil",210,0,6,210,1000,FALSE,1
+"Cooking Essentials","Amul Pure Ghee (Pouch)",505,1,2,499,1000,FALSE,1
+"Cooking Essentials","Aashirvaad Atta",460,13,6,399,10000,FALSE,10
+"Cooking Essentials","Popular Essentials Toor Dal (Un-Polished)",160,6,4,149,1000,FALSE,1
+"Cooking Essentials","Amul Ghee (Tin)",520,2,6,509,1000,FALSE,1
+"Cooking Essentials","Amul Fresh Cream",197,3,3,191,1000,FALSE,1
+"Cooking Essentials","Popular Essentials Pure Jaggery",50,2,6,49,450,FALSE,450
+"Cooking Essentials","Aashirvaad Multigrain Atta",64,3,2,62,1000,FALSE,1
+"Cooking Essentials","Fortune Soyabean Oil",1005,0,6,999,5000,FALSE,5
+"Cooking Essentials","Popular Essentials Sunflower Seeds",25,0,6,25,50,FALSE,50
+"Cooking Essentials","Tata Sampann kabuli chana",185,1,4,183,1000,FALSE,500
+"Cooking Essentials","Dhara Groundnut Oil (Pouch)",230,11,6,203,1000,FALSE,1
+"Cooking Essentials","Dhara Health Refined Sun Flower Oil Jar",1200,18,6,984,5000,FALSE,5
+"Cooking Essentials","24 Mantra Organic Jaggery Powder",80,15,6,68,500,FALSE,500
+"Cooking Essentials","Tata Sampann High Protien Kabuli Chana",94,0,1,94,500,FALSE,500
+"Cooking Essentials","Dhara Kachi Ghani Mustard Oil Jar",1250,8,6,1143,5000,FALSE,5
+"Cooking Essentials","D'lecta Dairy Cream",54,5,6,51,200,FALSE,200
